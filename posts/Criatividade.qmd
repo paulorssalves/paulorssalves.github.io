@@ -1,0 +1,27 @@
+---
+title: Criatividade e Rigor
+bibliography: references.bib 
+date: "2025-06-14"
+categories: ["criatividade", "psicanálise"]
+csl: apa.csl
+---
+
+Não acredito que ser criativo necessariamente implique em pintar quadros, escrever livros, fazer esculturas. Estas são as formas mais óbvias e caricatas da criatividade.
+
+Tomemos por exemplo um advogado: esta não é o tipo de profissão que seria naturalmente tomada criativa, visto que ela anda de mãos dadas com a burocracia. Mas há algo de criativo na profissão de um advogado: não é um produto, mas a sua retórica. _Que artigos mencionar? De que forma falar isso ou aquilo? Qual aspecto do caso frisar?_
+
+Há um processo criativo em voga, algo que implica em não haver um modelo pré-determinado, algo que implica em novidade, em exploração, em tomada de riscos.
+
+Isso está ligado à autenticidade.
+
+Para ser criativo não é necessário criar produtos ou obras de artes plásticas ou literárias, mas sim *relaxar*. Relaxar é necessário, deixar de ser tão duro. Muitos acreditam que isso é difícil, mas Freud afirma que isso é tão fácil que todos os seus pacientes conseguem. Mas que modo de relaxar é esse? 
+
+Na Interpretação dos Sonhos, Freud [@freudInterpretacaoDosSonhos2014] responde a esta pergunta por meio de uma menção a Schiller, que afirma que a criatividade é sufocada pela exigência, pelo julgamento, pela crítica; que as ideias que podem parecer peculiares são descartadas de antemão por causa dessa exigência, mas que se essa ideia esdrúxula tivesse a oportunidade de seguir o seu curso ela desembocaria em muitas outras ideias -- as quais foram previamente abortadas pela crítica, mas que poderiam ser de fato ideias de ouro; que 
+
+>Não parece bom, além de desvantajoso para as obras criativas da alma, quando o entendimento examina com demasiada severidade, já nos portões, por assim dizer, as ideias que chegam (ibid., p. 124)
+
+O essencial para a criatividade seria justamente *relaxar*, fazer uma *suspensão da crítica*, que caso seja bem sucedida resultaria na vinda à consciência "um sem número de ideias que de outro modo teriam permanecido inconcebíveis" (ibid., p. 123). A esterilidade criativa anda de mãos dadas com o rigor excessivo.
+
+Assim, há algo caótico e anti-hierárquico na criatividade; algo que foge às regras pré-determinadas, ao "trabalho prescrito". Inovar é fazer diferente, e fazer diferente é fugir do seguro. A criatividade é expansiva: ela faz conexões múltiplas e distintas. 
+
+Há algo nela de entrópico -- pois expande, quebra sistemas, destrói, difunde -- mas também algo sintrópico -- pois sintetiza e reúne. Na criatividade, tanto a abertura quanto o fechamento estão em jogo: após a explosão rizomática do início (essa inspiração caótica que conecta os elementos mais distintos e de associação inesperada), há uma reorganização, limpeza. [Adélia Prado, na poesia, chama isso de "cortar a gordura", os excessos que vêm após a inspiração inicial](https://youtu.be/6E2afhdOogI?si=T9zKHFct0J1IUbjI), a edição que sucede a escrita, ou a lapidação das formas brutas, divergentes da dignidade da ideia concretizada. Aqui há perigo, pois há risco em lapidar demais (não conserte o que já funciona!) e de menos (deixar pontas soltas ou caprichosamente adicionar conteúdo supérfluo).

@@ -1,0 +1,63 @@
+- title: "Procrastination, Time Management and Self-Efficacy among University Students"
+  author:
+      - "Alves, P. R. S. S."
+      - "Soares, A. B."
+      - "Jardim, M. E. M"
+  date: "2024-02-23"
+  description: "Psico-USF"
+  categories: [artigo]
+  image: "publicacoes/images/procrast-autoef.png"
+  path: https://doi.org/10.1590/1413-8271202429e272658
+
+- title: Ansiedade no Ambiente Acadêmico 
+  subtitle: Concepções de estudantes universitários
+  categories: [artigo]
+  date: "2024-07-01"
+  author:
+    - Soares, A. B.
+    - Ribeiro, R. 
+    - Alves, P. R. S. S. 
+    - Jardim, M. E. M
+    - Medeiros, C. A. C.
+    - Brito, A. D.
+  description: Revista Brasileira de Orientação Profissional
+  path: https://pepsic.bvsalud.org/pdf/rbop/v24n2/1679-3390-rbop-24-02-0203.pdf
+  image: "publicacoes/images/interv-ansiedade-quali.png"
+
+- title: Efeitos de uma intervenção com universitários sobre como lidar com a ansiedade
+  author: 
+    - Soares, A. B. 
+    - Alves, P. R. S. S. 
+    - Jardim, M. E. M 
+    - Medeiros, C. A. C
+  date: 2023-01-31
+  description: Estudos Interdisciplinares em Psicologia
+  path: https://doi.org/10.5433/2236-6407.2023.v14.46681
+  categories: [artigo]
+  image: "publicacoes/images/interv-ansiedade-quanti.png"
+
+- title: "A Gestão do Tempo na Rotina Universitária: resultados de uma intervenção"
+  author: 
+    - Soares, A. B. 
+    - Alves, P. R. S. S. 
+    - Jardim, M. E. M. 
+    - Medeiros, C. A. C. 
+    - Ribeiro, R.
+  date: 2023-10-09
+  description: Ciencias Psicológicas
+  path: https://doi.org/10.22235/cp.v17i2.2845
+  categories: [artigo]
+  image: "publicacoes/images/gt_interv.png"
+
+- title: "Time Management: What Do University Students Think about It?"
+  author: 
+    - Soares, A. B.
+    - Ribeiro, R.
+    - Alves, P. R. S. S.
+    - Jardim, M. E. M.
+    - Medeiros, C. A. C.
+  date: 2023-06-01
+  description: Revista de Estudios e Investigación en Psicología y Educación
+  path: https://doi.org/10.17979/reipe.2023.10.1.9468
+  categories: [artigo]
+  image: "publicacoes/images/gt-perceptions.png"

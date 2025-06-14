@@ -1,0 +1,14 @@
+---
+title: "Produções"
+listing:
+  contents: publicacoes/publicacoes.yaml
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+subtitle: Publicações científicas em que eu participei
+date-format: "YYYY"
+---

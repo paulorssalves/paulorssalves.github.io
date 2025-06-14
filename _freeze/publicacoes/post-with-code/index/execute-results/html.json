@@ -1,0 +1,17 @@
+{
+  "hash": "0a3e49ba303d83b9a69c819c8b6d27b3",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Procrastination, Time Management and Self-Efficacy among University Students\"\nauthor:\n    - \"Alves, P. R. S. S.\"\n    - \"Soares, A. B.\"\n    - \"Jardim, M. E. M\"\ndate: \"2024-02-23\"\nvolume: \"29\"\ndescription: \"Psico-USF\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\nThis is a post with executable code.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n\n\n\"Harlow Malloc\"\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

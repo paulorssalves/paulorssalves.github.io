@@ -1,0 +1,12 @@
+---
+title: Postagens
+subtitle: Alguns escritos sem muito compromisso
+listing:
+  contents: posts 
+  type: table
+  categories: true
+  fields: [date, title, reading-time]
+title-block-banner: true
+csl: apa.csl
+---
+

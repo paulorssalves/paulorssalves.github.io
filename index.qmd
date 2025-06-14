@@ -1,0 +1,28 @@
+---
+title: "paulorssalves"
+image: pic.jpg
+about:
+  template: trestles
+#  links:
+#    - icon: instagram 
+#      text: Instagram 
+#      href: https://instagram.com/paulorssalves
+#    - icon: linkedin
+#      text: LinkedIn
+#      href: https://linkedin.com/in/paulorssalves
+#    - icon: github
+#      text: Github
+#      href: https://github.com/paulorssalves
+---
+
+# Olá, mundo!
+
+Meu nome é Paulo, e sou psicólogo (CRP 05/69714).
+
+Atualmente sou aluno de pós-graduação (mestrado) na Universidade do Estado do Rio de Janeiro (UERJ). Eu pesquiso a relação entre práticas de gestão do tempo e produtividade. Estou na busca de corroborar, por um viés empírico, algumas proposições feitas por teóricos como Byung-Chul Han.
+
+Na pesquisa, minha abordagem empírica é predominantemente quantitativa: emprego modelos estatísticos aplicados à Psicologia a fim de verificar padrões na forma como certos tipos de pensamentos, sentimentos e comportamentos se relacionam em grandes quantidades de pessoas. Isto é, procuro identificar o que é _comum entre muitos_.
+
+A pesquisa teórica, entretanto, é a minha paixão, sobretudo de cunho ontológico ("o que é que isso que estudamos é?") e metodológico ("como é que devemos fazer para estudar isso?"). Tenho interesse por análises formais que empregam matemática sem se tratar necessariamente de estatística.
+
+Na Clínica, sou fortemente influenciado por Gilles Deleuze, Jacques Lacan, Carl Jung, Martin Heidegger, e por meus estudos em estatística aplicada à Psicologia. Tenho treinamento em Psicoterapia Fenomenológico-Existencial e essa é a diretriz maior da minha prática.

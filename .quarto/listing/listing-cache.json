@@ -1,0 +1,20 @@
+{
+  "listingMap": {
+    "index.qmd": [
+      "posts"
+    ],
+    "posts.qmd": [
+      "posts"
+    ],
+    "producoes.qmd": [
+      "posts",
+      "publicacoes",
+      "publicacoes.bib",
+      "publicacoes.yaml",
+      "publicacoes/publicacoes.yaml"
+    ],
+    "postagens.qmd": [
+      "posts"
+    ]
+  }
+}
