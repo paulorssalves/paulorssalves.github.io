@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "producoes.html",
+    "href": "producoes.html",
+    "title": "Produções",
     "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\nplot(rnorm(100))"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Ansiedade no Ambiente Acadêmico\n\n\nConcepções de estudantes universitários\n\n\n\nartigo\n\n\n\nRevista Brasileira de Orientação Profissional\n\n\n\n\n\n2024\n\n\nSoares, A. B., Ribeiro, R., Alves, P. R. S. S., Jardim, M. E. M, Medeiros, C. A. C., Brito, A. D.\n\n\n\n\n\n\n\n\n\n\n\n\nProcrastination, Time Management and Self-Efficacy among University Students\n\n\n\n\n\n\nartigo\n\n\n\nPsico-USF\n\n\n\n\n\n2024\n\n\nAlves, P. R. S. S., Soares, A. B., Jardim, M. E. M\n\n\n\n\n\n\n\n\n\n\n\n\nA Gestão do Tempo na Rotina Universitária: resultados de uma intervenção\n\n\n\n\n\n\nartigo\n\n\n\nCiencias Psicológicas\n\n\n\n\n\n2023\n\n\nSoares, A. B., Alves, P. R. S. S., Jardim, M. E. M., Medeiros, C. A. C., Ribeiro, R.\n\n\n\n\n\n\n\n\n\n\n\n\nTime Management: What Do University Students Think about It?\n\n\n\n\n\n\nartigo\n\n\n\nRevista de Estudios e Investigación en Psicología y Educación\n\n\n\n\n\n2023\n\n\nSoares, A. B., Ribeiro, R., Alves, P. R. S. S., Jardim, M. E. M., Medeiros, C. A. C.\n\n\n\n\n\n\n\n\n\n\n\n\nEfeitos de uma intervenção com universitários sobre como lidar com a ansiedade\n\n\n\n\n\n\nartigo\n\n\n\nEstudos Interdisciplinares em Psicologia\n\n\n\n\n\n2023\n\n\nSoares, A. B., Alves, P. R. S. S., Jardim, M. E. M, Medeiros, C. A. C\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "index.html",
@@ -28,32 +14,11 @@
     "text": "Olá, mundo!\nMeu nome é Paulo, e sou psicólogo (CRP 05/69714).\nAtualmente sou aluno de pós-graduação (mestrado) na Universidade do Estado do Rio de Janeiro (UERJ). Eu pesquiso a relação entre práticas de gestão do tempo e produtividade. Estou na busca de corroborar, por um viés empírico, algumas proposições feitas por teóricos como Byung-Chul Han.\nNa pesquisa, minha abordagem empírica é predominantemente quantitativa: emprego modelos estatísticos aplicados à Psicologia a fim de verificar padrões na forma como certos tipos de pensamentos, sentimentos e comportamentos se relacionam em grandes quantidades de pessoas. Isto é, procuro identificar o que é comum entre muitos.\nA pesquisa teórica, entretanto, é a minha paixão, sobretudo de cunho ontológico (“o que é que isso que estudamos é?”) e metodológico (“como é que devemos fazer para estudar isso?”). Tenho interesse por análises formais que empregam matemática sem se tratar necessariamente de estatística.\nNa Clínica, sou fortemente influenciado por Gilles Deleuze, Jacques Lacan, Carl Jung, Martin Heidegger, e por meus estudos em estatística aplicada à Psicologia. Tenho treinamento em Psicoterapia Fenomenológico-Existencial e essa é a diretriz maior da minha prática."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "Posts",
+    "objectID": "postagens.html",
+    "href": "postagens.html",
+    "title": "Postagens",
     "section": "",
-    "text": "About this blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 14, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 11, 2025\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#olá-mundo",
-    "href": "index.html#olá-mundo",
-    "title": "paulorssalves",
-    "section": "",
-    "text": "Meu nome é Paulo, e eu sou um psicólogo (CRP 05/69714) de um tipo esquisito."
-  },
-  {
-    "objectID": "producoes.html",
-    "href": "producoes.html",
-    "title": "Produções",
-    "section": "",
-    "text": "Ansiedade no Ambiente Acadêmico\n\n\nConcepções de estudantes universitários\n\n\n\nartigo\n\n\n\nRevista Brasileira de Orientação Profissional\n\n\n\n\n\n2024\n\n\nSoares, A. B., Ribeiro, R., Alves, P. R. S. S., Jardim, M. E. M, Medeiros, C. A. C., Brito, A. D.\n\n\n\n\n\n\n\n\n\n\n\n\nProcrastination, Time Management and Self-Efficacy among University Students\n\n\n\n\n\n\nartigo\n\n\n\nPsico-USF\n\n\n\n\n\n2024\n\n\nAlves, P. R. S. S., Soares, A. B., Jardim, M. E. M\n\n\n\n\n\n\n\n\n\n\n\n\nA Gestão do Tempo na Rotina Universitária: resultados de uma intervenção\n\n\n\n\n\n\nartigo\n\n\n\nCiencias Psicológicas\n\n\n\n\n\n2023\n\n\nSoares, A. B., Alves, P. R. S. S., Jardim, M. E. M., Medeiros, C. A. C., Ribeiro, R.\n\n\n\n\n\n\n\n\n\n\n\n\nTime Management: What Do University Students Think about It?\n\n\n\n\n\n\nartigo\n\n\n\nRevista de Estudios e Investigación en Psicología y Educación\n\n\n\n\n\n2023\n\n\nSoares, A. B., Ribeiro, R., Alves, P. R. S. S., Jardim, M. E. M., Medeiros, C. A. C.\n\n\n\n\n\n\n\n\n\n\n\n\nEfeitos de uma intervenção com universitários sobre como lidar com a ansiedade\n\n\n\n\n\n\nartigo\n\n\n\nEstudos Interdisciplinares em Psicologia\n\n\n\n\n\n2023\n\n\nSoares, A. B., Alves, P. R. S. S., Jardim, M. E. M, Medeiros, C. A. C\n\n\n\n\n\nNenhum item correspondente"
-  },
-  {
-    "objectID": "publicacoes/post-with-code/index.html",
-    "href": "publicacoes/post-with-code/index.html",
-    "title": "Procrastination, Time Management and Self-Efficacy among University Students",
-    "section": "",
-    "text": "This is a post with executable code.\n\nplot(rnorm(100))\n\n\n\n\n\n\n\n\n“Harlow Malloc”"
+    "text": "Ordenar por\n      Pré-selecionado\n      \n        Data - Mais velho\n      \n      \n        Data - O mais novo\n      \n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData\n\n\n\nTítulo\n\n\n\nTempo de leitura\n\n\n\n\n\n\n\n\n14 de jun. de 2025\n\n\nCriatividade e Rigor\n\n\n3 minutos\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "clinica.html",
@@ -61,20 +26,6 @@
     "title": "Clínica",
     "section": "",
     "text": "Minhas influências na clínica são múltiplas. É comum que psicólogos perguntem uns aos outros “qual é sua linha?”, querendo saber a diretriz teórica que os orienta. Durante a minha formação, ouvi um professor meu dizer, jocosamente, que era “desalinhado”. Eu me identifiquei com isso.\nNão quer dizer que não tenho uma orientação teórica para a clínica. O problema é que eu não consigo encontrar um lugar para recostar a cabeça. O campo da psicologia é todo muito interessante, e eu me enveredo por múltiplas escolas de investigação: psicanálise, psicologia existencial, psicologia existencial, esquizoanálise, gestalt terapia, psicometria, psicologia cognitiva…\nSe eu fosse tentar resumir, diria que tenho um lado contemplativo que opera no fundo – fortemente pautado por Deleuze, Guattari, Lacan, Jung, Freud, Heidegger – e que me torna profundamente crítico com toda teoria que eu leio. Ao mesmo tempo, tenho ampla prática com métodos estatísticos em psicologia, e por meio destes eu fico nas margens da psicologia cognitiva.\nSão abordagens que entram em choque. O que uma diz, a outra com frequência contradiz. É nesse jogo de tensões que eu faço a minha morada, e é com o incômodo da irredutibilidade que eu levo a minha prática clínica."
-  },
-  {
-    "objectID": "publicacoes/welcome/index.html",
-    "href": "publicacoes/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "postagens.html",
-    "href": "postagens.html",
-    "title": "Postagens",
-    "section": "",
-    "text": "Ordenar por\n      Pré-selecionado\n      \n        Data - Mais velho\n      \n      \n        Data - O mais novo\n      \n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nData\n\n\n\nTítulo\n\n\n\nTempo de leitura\n\n\n\n\n\n\n\n\n14 de jun. de 2025\n\n\nCriatividade e Rigor\n\n\n3 minutos\n\n\n\n\n\n\nNenhum item correspondente"
   },
   {
     "objectID": "posts/Criatividade.html",
