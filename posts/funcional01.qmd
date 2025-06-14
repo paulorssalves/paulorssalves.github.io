@@ -1,0 +1,170 @@
+---
+title: Programação funcional -- parte 1
+subtitle: purrr::map()
+categories: [programação, estatística, tutorial]
+draft: true
+---
+
+Quando fazemos testes estatísticos, é provável que tenhamos que repetir o mesmo teste múltiplas vezes.
+
+A programação é um ofício e, por conta disso, naturalmente adquiriu algumas características de uma arte. Assim, linguages de programação não apenas são vistos como ferramentas, mas também como objetos ao redor dos quais culturas são criadas (não à toa existem encontros internacionais que aglomeram milhares de programadores).
+
+Existe, portanto, uma certa estética que se almeja ao escrever códigos em computadores. Não basta que os códigos sejam funcionais: eles devem ser legíveis (tanto para você, quanto para outras pessoas) e, se possível, bonitos. E uma coisa que torna os códigos feios é a vã repetição.
+
+Digamos, por exemplo, que lhe façam um desafio:
+
+> Escreva um código que verifique os números, de 1 a 100, que são divisíveis por 3 e por 5.
+
+Esse é o desafio do *FizzBuzz*, aliás. Uma abordagem feia disso seria algo assim:
+
+```{r}
+#| eval: false
+for (i in c(1:100)) {
+    if (i == 1) {
+        print (i)
+    }
+    else if (i == 2) {
+        print (i)
+    }
+    else if (i == 3) {
+        print ("Fizz!")
+    }
+    else if (i == 4) {
+        print (i)
+    }
+    else if (i == 5) {
+        print ("Buzz!")
+    }
+# (E assim continua até o 100...)
+}
+```
+
+É funcional, mas é tão ineficiente que pode chegar a doer os olhos.
+
+Assim, seria melhor fazer algo que fosse mais sucinto. Podemos usar o operador _módulo_, que verifica se um número é divisível por outro. No R, o sinal desse operador é `%%`.
+
+Assim, pode-se testar se o número 10 é divisível por 3 ou por 5 assim:
+
+```{r}
+#| eval: false
+10 %% 3 # resta 1
+10 %% 5 # resta 0
+```
+
+Como em `10/5` o resto é zero, então podemos afirmar que 10 é divisível por 5.
+
+E podemos usar isso pra resolver o problema do FizzBuzz com maior simplicidade:
+
+
+```{r}
+#| eval: false
+for (i in c(1:100)) {
+    if (i %% 15 == 0) {
+        print("fizzbuzz")
+    }
+    else if (i %% 3 == 0) {
+        print("fizz")
+    }
+    else if (i %% 5 == 0) {
+        print("buzz")
+    } 
+    else {
+        print(i)
+    }
+}
+```
+
+A ideia que direciona a busca por essa simplicidade é um acrônimo que influencia o ofício de quase todos os programadores: _KISS_ (ou "_Keep It Simple, Stupid!_"), que quer dizer algo como "_faça de forma simples, idiota!_"
+
+(Sim, programadores são carismáticos)
+
+No dia a dia da análise de dados, como é que isso se aplicaria?
+
+## Testes repetidos
+
+Primeiro vamos simular um banco de dados:
+
+
+```{r}
+#| warning: false
+ 
+# importando a biblioteca de manipulação de dados tidyverse 
+library(tidyverse)
+
+# para que os resultados, mesmo simulados, serem sempre os mesmos
+set.seed(123) 
+
+# simulando um banco de dados com 300 sujeitos
+depressão <- round(rnorm(n = 300, mean = 10, sd= 1)) 
+ansiedade <- round(rnorm(n = 300, mean = 12, sd= 2)) 
+estresse <- round(rnorm(n = 300, mean = 14, sd= 3)) 
+
+# simulando a existêncai de três grupos
+grupo <- sample(c(1:3), size=300, replace=T) 
+
+# juntando as quatro colunas simuladas antes
+dados <- tibble(depressão, ansiedade, estresse, grupo) 
+
+# vendo os 5 primeiros casos do banco de dados
+head(dados, n = 5)
+```
+
+Suponha que queiramos verificar se há diferença entre os três grupos quanto aos níveis de depressão, ansiedade e estresse. Podemos proceder assim:
+
+```{r}
+#| warning: false
+library(rstatix)
+dados |> t_test(depressão ~ grupo)
+dados |> t_test(ansiedade ~ grupo)
+dados |> t_test(estresse ~ grupo)
+```
+
+Pro nosso exemplo, não importa se os grupos são ou não diferentes. No caso, eles não são. A questão é que **tivemos que repetir a linha de comparação de grupo para cada variável que vamos comparar.**
+
+Se um dia você tiver que fizer essa mesma comparação dezenas de vezes (como se tiver que comparar quatro variáveis entre dois grupos em três momentos -- pré-intervenção, pós-intervenção e _follow-up_) as coisas podem começar a ficar monótonas. Além disso, essa repetição pode fazer com que pequenos erros passem despercebidos. Aqui, o acrônimo _KISS_ mostra o seu verdadeiro valor: não é apenas uma questão de estética, mas também algo que _melhora_ a qualidade do trabalho.
+
+Assim, podemos usar a função `purrr::map()` a fim de evitar essa repetição. O que ela vai fazer é aplicar uma mesma função em todas as colunas que nos são relevantes. Podemos proceder da seguinte forma:
+
+```{r}
+colunas = c("ansiedade", "depressão", "estresse")
+map(.x = colunas, 
+    .f = ~t_test(dados, 
+                formula = as.formula(paste0(.x, "~ grupo"))))
+```
+
+A função `map()` é uma das ferramentas básicas da programação funcional.
+
+(...)
+
+## afazeres
+
+- [ ] Desmembrar o código `map()`
+- [ ] Explicar o que é um `mapping` entre funções
+- [ ] Resolver fizzbuzz pelo `map()`;
+
+# Bônus: _Fizzbuzz_ funcional
+
+Agora, só pra deixar esse tutorial bem redondinho, vamos resolver o _fizzbuzz_ usando a função `map()`. Mas primeiro temos que elaborar a função que verifica se os números são múltiplos de 3, 5 ou 15:
+
+```{r}
+fizzbuzz <- function(i) {
+    if (i %% 15 == 0) {
+        return("fizz")
+    } else if (i %% 5 == 0) {
+       return("buzz")
+    } else if (i %% 3 == 0) {
+        return("fizz")
+    } else {
+        return(i)
+    }
+}
+```
+
+Pra não deixa o _output_ muito longo eu vou fazer só com os 15 primeiros números. 
+
+```{r}
+fizz.matrix <- matrix(1:15, nrow=3, ncol=5)
+map(fizz.matrix, fizzbuzz)
+```
+
+Existe uma solução mais elegante para resolver isso usando a função `ifelse()` e trocando `map()` por `map_df()`^[`map_df()` é só uma variante da função `map()` cujo _output_ é um `data.frame`], mas em nome da simplicidade nós vamos deixar da forma que está. 
