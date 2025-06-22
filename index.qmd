@@ -6,7 +6,7 @@ about:
   links:
     - icon: whatsapp
       text: Whatsapp
-      href: https://wa.me/21976625742?text=Olá!%20Encontrei%20o%20seu%20site%20na%20internet
+      href: https://wa.me/5521976625742?text=Olá!%20Encontrei%20o%20seu%20site%20na%20internet
     - icon: envelope 
       text: Email
       href: mailto:contato@paulorssalves.com.br
