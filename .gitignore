@@ -1,2 +1,5 @@
 /.quarto/
 /.obsidian
+*.json
+*.qmd.json
+*.js

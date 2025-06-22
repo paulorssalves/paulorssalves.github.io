@@ -1,0 +1,51 @@
+---
+title: A escrita e a psicoterapia
+bibliography: references.bib 
+date: "2025-06-22"
+categories: ["escrita","psicanálise", "psicoterapia", "psicopatologia"]
+csl: apa.csl
+---
+
+Existe um certo número de pessoas, que eu acredito ser pequeno, que se tivesse o hábito de escrever diários (da forma certa) não precisaria de terapia. Penso que talvez o ato de escrever diários poderia ser até um preventivo do adoecimento psíquico em _alguns_ casos.
+
+Veja bem. Não acho que escrever diários seja um substituto pra terapia, muito menos que seja um substituto para todos os casos. O problema é que o sofrimento psíquico pode ser originado de inúmeras fontes.
+
+# Alguns tipos de sofrimento psíquico
+
+Primeiro que pode haver o sofrimento oriundo de problemas neuropsicológicos. Isso pode ser puramente relacionado à genética em alguns casos, mas na maioria das vezes existe um componente ambiental muito forte. Negligência parental, abuso de drogas (sobretudo na infância e adolescência) e experiências de violência são alguns eventos ambientais que deixam marcas indeléveis sobre o cérebro. Como resultado, a pessoa desenvolve certos sintomas, que (talvez) infelizmente não podem ser previstos como efeito direto do evento que os causou.[^1] Isso é, pessoas diferentes, diante do mesmo evento, podem apresentar sintomas distintos. Algumas podem nem sequer apresentar sintoma algum.
+
+[^1]: Há também o problema de que possivelmente algumas marcas neurofisiológicas deixadas por traumas não sejam causas dos sintomas, mas elas que elas próprias são efeito da cicatriz emocional deixada pelo trauma. Assim, elas possivelmente não são causa dos sintomas, mas um mero espelho do trauma -- e nesses casos não tem como tratar o sintoma sem tratar o trauma.
+
+Isso não é porque a psicologia é uma ciência malfeita, mas porque as pessoas processam as coisas de forma diferente. Uma criança que é chamada de feia na escola pode sofrer profundamente com isso, ao passo que uma outra pode ter uma autoestima tão inabalável que isso não terá efeito algum.
+
+Mas se por um lado os sintomas podem ter uma raiz neurológica -- algo a ser entendido com nuance em caso de traumas, e para além do debate em caso de tumores ou dados cerebrais --, por outro eles podem ter uma raiz puramente afetiva. Às vezes a questão é o choque com a moral: ver-se fazendo, ou pensando algo que antes se considerava até mesmo impensável. Soldados que voltam da guerra não raro se veem intensamente traumatizados não pelo que fizeram com eles, mas por conta do que eles próprios fizeram. O que eles se mostraram capazes de fazer vai de encontro com a ideia que eles tinham acerca de si mesmos, e eles não conseguem suportar isso. Adoecem, portanto. Isso não significa que apenas eventos tão intensos quanto cometer atrocidades em guerra são dignos de atenção -- eles são o caso mais caricato para ilustrar um ponto. Vítimas e perpetradores, ambos, podem sofrer de traumas oriundos das suas experiências.
+
+Tanto o primeiro caso (marcas neurológicas) quanto o segundo (traumas afetivos) dificilmente, se não impossivelmente, serão "resolvidos" sem ajuda de profissionais. 
+
+## Sintomas oriundos de ideias mal-elaboradas
+
+Mas existe um tipo de sofrimento psíquico que se dá simplesmente porque as ideias não foram elaboradas. Às vezes, a psicopatologia literalmente é oriunda apenas de _ideias erradas_ levadas a cabo. Às vezes um ponto de vista filosófico, há anos lido, ou uma doutrina teológica fronteiriça, podem ser o ponto de partida de um sofrimento longo e extenuante. Um terapeuta pode ajudar a pessoa a elaborar essas ideias, e com frequência nem sequer precisa fazer uma intervenção: só de ouvir e, aqui e ali, fazer algumas perguntas para entender melhor a pessoa já passa por um processo rico o suficiente para que ela possa perceber as inconsistências e as consequências lógicas de ideias pouco elaboradas. 
+
+E isso é algo peculiar da vida psíquica: às vezes nós não elaboramos logicamente as ideias que nos impressionaram, mas inconscientemente nós estamos vivendo as consequências lógicas delas. E mais: de forma autônoma, a nossa mente encadeia diferentes proposições lógicas sem que nós percebamos isso. Então ideias malformadas, com apenas a pontinha delas muito porcamente esboçadas, em nossas mentes, inconscientemente, ganham asas. Inconscientemente, as consequências lógicas delas são elaboradas, e as consequências de múltiplas ideias mal-formuladas são encadeadas e formam uma rede de significados segundo o qual nós vamos vivendo sem nem perceber que isso está acontecendo. E aí surgem sintomas bizarros que não fazem sentido algum: insônia, vício em trabalho, transtornos obsessivos e compulsivos etc. Tudo por causa de ideias mal-elaboradas.
+
+O que um terapeuta muitas vezes vai fazer é ajudar as pessoas a elaborar essas ideias, e com frequência isso vai bastar para que a pessoa possa se libertar dos efeitos delas.
+
+### O que os diários fazem
+
+Diários podem também ajudar na elaboração de ideias. De novo, acredito que o número desses casos seja pequeno, mas creio que algumas poucas pessoas das que precisam de terapia -- e não, eu não acho que é todo mundo que precisa --, se tivessem o hábito contínuo de escrever diários, não precisariam. 
+
+Não quero dizer que o que a psicoterapia traz é o mesmo que se obtém ao escrever diários. De forma alguma. Mas pra algumas pessoas que entram no processo psicoterapêutico, _tudo_ o que elas precisam é o que um diário poderia proporcioná-las.
+
+# As dificuldades com a escrita de diários 
+
+Mas existe uma série de motivos por que isso pode ser inviável.
+
+1. Começando pelo mais óbvio: o seu (hipotético) problema não é simples o suficiente pra ser resolvido apenas escrevendo diários. O sofrimento psíquico gera uma série de sintomas compensatórios, e entre eles estão as _resistências_. Resistências são atitudes e comportamentos que nós adotamos pra _evitar_ o contato com a (múltipla) raiz dos nossos problemas. Isso acontece porque com frequência essa solução é dolorosa; envolve entrar em contato com partes de nós mesmos que nós não gostamos. Com o passar do tempo, isso pode acabar empilhando. Resistências impediriam o sujeito de enxergar o que ele precisa ver. Assim, um terapeuta pode auxiliá-lo a atravessar essas resistências;
+
+2. Escrever é cansativo: escrever demanda tempo e, sem alguma espécie de compromisso e esforço ativo, acaba ficando pro segundo plano, pra depois. Falar pode ser mais fácil para alguns;
+
+3. Não existe prejuízo imediato em negligenciar a escrita: ao fazer terapia com um profissional, você tem um _compromisso_: você o paga pelo horário, e se você não aparecer você terá simplesmente perdido dinheiro;
+
+4. Escrever talvez implique na possibilidade de que _alguém_ leia, e isso pode ser horrível.
+
+Ademais, existe um método correto para escrever diários de modo que seja psicoterapêutico. Não é toda escrita que traz benefícios, mas um certo tipo específico de escrita, sobre a qual eu [escrevi em uma outra postagem](./Criatividade.qmd), e é análogo ao próprio processo da gênese das ideias em meio à criatividade. É preciso um certo treino, um certo esforço, pra aprender a escrever desse jeito. Ironicamente, pode-se aprender a escrever mais facilmente dessa forma, creio eu, com a ajuda de um terapeuta.
