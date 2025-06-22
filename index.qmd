@@ -3,7 +3,13 @@ title: "paulorssalves"
 image: pic.jpg
 about:
   template: trestles
-#  links:
+  links:
+    - icon: whatsapp
+      text: Whatsapp
+      href: https://wa.me/21976625742?text=Olá!%20Encontrei%20o%20seu%20site%20na%20internet
+    - icon: envelope 
+      text: Email
+      href: mailto:contato@paulorssalves.com.br
 #    - icon: instagram 
 #      text: Instagram 
 #      href: https://instagram.com/paulorssalves
@@ -13,6 +19,7 @@ about:
 #    - icon: github
 #      text: Github
 #      href: https://github.com/paulorssalves
+
 ---
 
 # Olá, mundo!

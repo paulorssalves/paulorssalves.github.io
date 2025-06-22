@@ -6,6 +6,8 @@ website:
   title: "paulorssalves"
   navbar:
     right:
+      - text: "Sobre"
+        href: index.qmd
       - clinica.qmd
       - producoes.qmd
       - postagens.qmd
