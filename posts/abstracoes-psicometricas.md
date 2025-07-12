@@ -2,7 +2,7 @@
 title: Abstrações Psicométricas 
 bibliography: references.bib 
 date: "2025-07-11"
-categories: ["psicometria", "psicologia", "clínica"]
+categories: ["psicometria", "clínica"]
 csl: apa.csl
 ---
 

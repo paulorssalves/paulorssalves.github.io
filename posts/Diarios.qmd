@@ -2,7 +2,7 @@
 title: A escrita e a psicoterapia
 bibliography: references.bib 
 date: "2025-06-22"
-categories: ["escrita","psicanálise", "psicoterapia", "psicopatologia"]
+categories: ["escrita","psicanálise", "clínica", "psicopatologia"]
 csl: apa.csl
 ---
 
