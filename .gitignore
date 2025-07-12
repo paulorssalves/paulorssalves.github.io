@@ -1,5 +1,10 @@
-/.quarto/
-/.obsidian
-*.json
-*.qmd.json
-*.js
+.quarto
+.obsidian
+README_files
+.space
+.quarto/xref/INDEX
+.quarto/project-cache/deno-kv-file-wal
+.quarto/project-cache/deno-kv-file-shm
+.quarto/idx/index.qmd.json
+.quarto/preview/lock
+README.html
