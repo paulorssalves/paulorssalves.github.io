@@ -8,3 +8,5 @@ README_files
 .quarto/idx/index.qmd.json
 .quarto/preview/lock
 README.html
+
+/.quarto/

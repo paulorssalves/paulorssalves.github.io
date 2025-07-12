@@ -1,5 +1,5 @@
 ---
-title: Abstrações Psicométricas 
+title: Abstrações psicométricas 
 bibliography: references.bib 
 date: "2025-07-11"
 categories: ["psicometria", "clínica"]
@@ -30,7 +30,7 @@ Numa escala de depressão, então, deve haver alguém com o mesmo nível de depr
 
 Logo, depressão se tornou para nós uma variável observável.
 
-Então digamos que há duas pessoas. Joana, que está com um nível de depressão $x$, e Júlia, que está localizada na mesma posição da escala, $x$.[^2] Sabemos apenas que elas têm esse tal do mesmo *nível*. Mas isso não nos diz *como* (até certo grau) nem *por quê*. Temos os troncos desnudos da Figura 2, mas nossa medida deixou os galhos da Figura 1 de fora.
+Então digamos que há duas pessoas. Joana, que está com um nível de depressão $x$, e Júlia, que está localizada na mesma posição da escala, $x$. Sabemos apenas que elas têm esse tal do mesmo *nível*.[^2] Mas isso não nos diz *como* (até certo grau) nem *por quê*. Temos os troncos desnudos da Figura 2, mas nossa medida deixou os galhos da Figura 1 de fora.
 
 [^2]: Rasch (ou Lord e Novick) nos possibilitou(ram) fazer esse tipo de coisa -- só não obtivemos o tal do "acesso direto" ainda (e talvez nunca o façamos).
 
