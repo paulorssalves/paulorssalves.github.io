@@ -2,3 +2,5 @@
 title: Repressão e moralidade
 draft: true
 ---
+
+- [ ] Falar sobre o tão comumente mal-interpretado conceito freudiano de "a doença é fruto da repressão".
